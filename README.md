@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">My Runner</h3>
+  <h3 align="center">AI recognizes hand digits</h3>
 
   <p align="center">
     An AI made with PyTorch in Python capable of recognizing hand digits.
@@ -63,8 +63,8 @@ Use the `jupyter notebook` to get started.
 
 On linux:
 
-      'sudo apt install python'
-      'pip install notebook'
+      sudo apt install python
+      pip install notebook
 
 To start:
 
@@ -78,7 +78,7 @@ To start:
 
 Gabriel GUIET-DUPRE - [in: gabriel-guiet-dupre](https://linkedin.com/in/gabriel-guiet-dupre) - gabriel.guiet-dupre@epitech.eu
 
-Project Link: [https://github.com/gab_gdp/runner](https://github.com/Gab404/runner)
+Project Link: [https://github.com/gab_gdp/runner](https://github.com/Gab404/recognize_digits)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
