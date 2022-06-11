@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">AI recognizes hand digits</h3>
+  <h3 align="center">AI recognizes hand digits (98.78 % Accuracy)</h3>
 
   <p align="center">
     An AI made with PyTorch in Python capable of recognizing hand digits.
